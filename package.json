@@ -1,0 +1,32 @@
+{
+  "name": "drilling-s1-m7",
+  "version": "1.0.0",
+  "description": "Evaluación Sesión 1 Modulo 7 ",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pg",
+    "postgresSQL",
+    "database",
+    "base",
+    "de",
+    "datos",
+    "client",
+    "pool",
+    "cliente",
+    "URI",
+    "string",
+    "String",
+    "URI",
+    "node",
+    "js",
+    "nodejs"
+  ],
+  "author": "Daniel Bustos Orellana",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.13.0"
+  }
+}
